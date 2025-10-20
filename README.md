@@ -1,5 +1,5 @@
 # Rohan Sanjay Patil 🇮🇳🇩🇪
-# <div align="center">Master's AI Researcher @ THWS</div>
+# <div align="center">Master's AI Student @ THWS</div>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=rohan2700&color=blue" alt="Profile views counter" />
@@ -27,14 +27,14 @@ I am a Master's student at **THWS**, specializing in bridging **Deep Learning re
     <br>
     <div style="display: flex; justify-content: space-around; width: 80%;">
         <div style="text-align: center; padding: 10px;">
-            <h2>📈 +0.46%</h2>
-            <p>Absolute Win Rate Improvement</p>
-            <p style="font-size: 14px; color: #5B2C6F;">(Using Double Q-Learning)</p>
-        </div>
-        <div style="text-align: center; padding: 10px;">
             <h2>🥇 97%</h2>
             <p>F1-Score in Ensemble Classification</p>
             <p style="font-size: 14px; color: #5B2C6F;">(Validated as 4% better than competition)</p>
+        </div>
+        <div style="text-align: center; padding: 10px;">
+            <h2>📈 +0.46%</h2>
+            <p>Absolute Win Rate Improvement</p>
+            <p style="font-size: 14px; color: #5B2C6F;">(Using Double Q-Learning)</p>
         </div>
         <div style="text-align: center; padding: 10px;">
             <h2>⚡ 10X Faster</h2>
@@ -88,11 +88,11 @@ This section is organized by specialty to quickly showcase my core competencies.
 
 ### 🧠 **AI & Optimization Highlights**
 
-* **🃏 Double Q-Learning Blackjack Strategy:** Advanced RL model validated over **$5$ Million hands**, achieving **$0.46\%$ absolute win rate improvement**.
-* **🎯 Ensemble Classification for Suspect Prediction:** Trained a model achieving **$97\%$ F1-score**, proving **$4\%$ better** accuracy than competing models.
+* **🃏 Double Q-Learning Blackjack Strategy:** Advanced RL model validated over **$5$ Million hands**, achieving **$0.46\\%$ absolute win rate improvement**.
+* **🎯 Ensemble Classification for Suspect Prediction:** Trained a model achieving **$97\\%$ F1-score**, proving **$4\\%$ better** accuracy than competing models.
 * **🛰️ Multiple Particle Filter Realization (State Estimation):** Demonstrated system resilience by managing sensor **Dropouts** up to **$0.3$ seconds** in time-series data using Bayesian Inference.
 * **💬 Insights4You (Generative AI App):** Built a web application (Flask/Dash) that reduces analytics turnaround time to **under $3$ seconds** using NLP pipelines and Generative AI.
-* **🚗 Automated Parking System (MLOps):** Integrated OCR/NLP to create an acquisition pipeline that is **$10\mathbf{x}$ faster** and cut manual errors by **$70\%$**.
+* **🚗 Automated Parking System (MLOps):** Integrated OCR/NLP to create an acquisition pipeline that is **$10\mathbf{x}$ faster** and cut manual errors by **$70\\%$**.
 
 <br>
 
