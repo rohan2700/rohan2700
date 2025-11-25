@@ -30,26 +30,21 @@ I am a Master's student at THWS (Technical University of Applied Sciences Würzb
 
 
 
-<div style="display: flex; justify-content: space-around; width: 90%;">
+<div style="display: flex; justify-content: space-around; width: 80%;">
 <div style="text-align: center; padding: 10px;">
 <h2>🥇 97%</h2>
 <p>F1-Score in Ensemble Classification</p>
-<p style="font-size: 14px; color: #5B2C6F;">(Outperforming competition by 4%)</p>
+<p style="font-size: 14px; color: #5B2C6F;">(Validated as 4% better than competition)</p>
 </div>
 <div style="text-align: center; padding: 10px;">
-<h2>🔬 150K Px</h2>
-<p>High-Res Image Processing</p>
-<p style="font-size: 14px; color: #5B2C6F;">(Detecting 5x5 Px bacteria)</p>
-</div>
-<div style="text-align: center; padding: 10px;">
-<h2>⚡ 10X Faster</h2>
-<p>MLOps Automation Pipeline</p>
-<p style="font-size: 14px; color: #5B2C6F;">(Reduced manual errors by 70%)</p>
+<h2>⚡ 10x</h2>
+<p>Faster Data Acquisition</p>
+<p style="font-size: 14px; color: #5B2C6F;">(OCR Pipeline for APS)</p>
 </div>
 <div style="text-align: center; padding: 10px;">
 <h2>📈 +25%</h2>
-<p>Reliability Improvement</p>
-<p style="font-size: 14px; color: #5B2C6F;">(Via Automated Defect Detection)</p>
+<p>System Reliability</p>
+<p style="font-size: 14px; color: #5B2C6F;">(Automated Defect Detection)</p>
 </div>
 </div>
 </div>
@@ -61,17 +56,17 @@ I am a Master's student at THWS (Technical University of Applied Sciences Würzb
 
 🌟 Current Deep Dive
 
-Master's Project (Laboklin): Detection of H.Pylori Bacteria in Veterinary Biopsy using Deep Nets. Developing active learning models for high-confidence (80%+) bounding box detection on massive 150K x 60K pixel images.
+Master's Project (Laboklin): Detection of H.Pylori Bacteria in Veterinary Biopsy using Deep Nets. Developing active learning models for high-confidence ($80+\%$) bounding box detection on massive $150\text{K} \times 60\text{K}$ pixel images.
 
 Quality Management AI: Building RAG (Retrieval-Augmented Generation) systems to structure incident data for automotive quality analysis (BMW Use Case).
 
 💼 Professional Snapshot
 
-ML and Research Intern @ Compsoft Technologies (2023): Validated Automated Parking Systems (APS) with 75+ test scenarios. Built an OCR pipeline that processes ~5,000 records per run, making data acquisition 10x faster.
+ML and Research Intern @ Compsoft Technologies (2023): Validated Automated Parking Systems (APS) with $75+$ test scenarios. Built an OCR pipeline that processes $\sim 5,000$ records per run, making acquisition $10\mathbf{x}$ faster. Identified $12$ critical defects to improve reliability by $25\%$.
 
-Education: M.Sc. Artificial Intelligence (THWS, Germany) | B.E. Computer Science (BMSIT, India, CGPA 8.4/10).
+Education: M.Sc. Artificial Intelligence (THWS, Germany) | B.E. Computer Science (BMSIT, India, CGPA $8.4/10$).
 
-Leadership: Presented technical seminars to 500+ attendees on Deep Learning applications in Formula 1.
+Leadership: Presented technical seminars to $500+$ attendees on Deep Learning applications in Formula 1.
 
 🛠 Technical Arsenal ✨
 
@@ -98,15 +93,15 @@ Web: HTML, CSS, React, JavaScript
 
 🧠 AI & Optimization Highlights
 
-🧬 H.Pylori Detection (Computer Vision): Developing a multi-detection model using Active Learning to identify microscopic bacteria (5x5 px) within massive biopsy images (150K x 60K px).
+🧬 H.Pylori Detection (Computer Vision): Developing a multi-detection model using Active Learning to identify microscopic bacteria ($5 \times 5$ px) within massive biopsy images ($150\text{K} \times 60\text{K}$ px).
 
 🚗 BMW Lessons Learned System (GenAI / RAG): Built a platform for Quality Analysis and Solution Retrieval. Utilized RAG to structure incident data and developed department analytics visualizations for actionable insights.
 
-🃏 Double Q-Learning Blackjack Strategy: Advanced RL model validated over 5 Million hands, achieving 0.46% absolute win rate improvement (Natural Blackjack win rate increased from 2.29% to 2.75%).
+🃏 Double Q-Learning Blackjack Strategy: Advanced RL model validated over $5$ Million hands, achieving $0.46\%$ absolute win rate improvement (Natural Blackjack win rate increased from $2.29\%$ to $2.75\%$).
 
-🚓 Fast Prediction of Criminal Suspects: Trained a KNN model achieving 96% Precision and 97% F1-score, proving 4% better accuracy than competing models.
+🚓 Fast Prediction of Criminal Suspects: Trained a KNN model achieving $96\%$ Precision and $97\%$ F1-score, proving $4\%$ better accuracy than competing models.
 
-📄 Automated Parking System Validation: Performed 75+ tests identifying 12 critical defects, proposing fixes that improved system reliability by 25%.
+📄 Automated Parking System Validation: Performed $75+$ tests identifying $12$ critical defects, proposing fixes that improved system reliability by $25\%$.
 
 🤝 Connect & Activity
 
