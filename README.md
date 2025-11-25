@@ -2,11 +2,11 @@
 
 # Rohan Sanjay Patil 🇮🇳🇩🇪
 
-### MSc AI @ THWS | Deep Learning • RAG Systems • Computer Vision
+### MSc AI @ THWS 
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rohanpatilrsp18@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-patil18)
-[![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=flat-square&logo=react&logoColor=61DAFB)](https://rohan2700.github.io/)
+[![Email](https://img.shields.io/badge/Email-5B2C6F?style=flat-square&logo=gmail&logoColor=white)](mailto:rohanpatilrsp18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B2C6F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-patil18)
+[![Portfolio](https://img.shields.io/badge/Portfolio-5B2C6F?style=flat-square&logo=react&logoColor=white)](https://rohan2700.github.io/)
 ![Profile Views](https://komarev.com/ghpvc/?username=rohan2700&color=5B2C6F&style=flat-square)
 
 </div>
@@ -15,26 +15,15 @@
 
 ## 🎯 Impact at Scale
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🔬_150K×60K-Pixels-FF00FF?style=for-the-badge&labelColor=5B2C6F" alt="Image Size"/><br/>
-<sub><b>🧬 Current: H.Pylori Detection</b><br/>5×5px bacteria | 80%+ confidence</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/97%25-F1--Score-00C851?style=for-the-badge&labelColor=007E33" alt="F1 Score"/><br/>
-<sub><b>Classification</b><br/>+4% vs competition</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/5M-Hands-FF6B6B?style=for-the-badge&labelColor=CC0000" alt="Simulations"/><br/>
-<sub><b>RL Training</b><br/>+0.46% win rate</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/+25%25-Reliability-33B5E5?style=for-the-badge&labelColor=0099CC" alt="Reliability"/><br/>
-<sub><b>APS System</b><br/>12 defects fixed</sub>
-</td>
-</tr>
-</table>
+<div align="center">
+
+| 🔬 **Current Research** | 🎯 **Classification** | 🎲 **RL Training** | 🔧 **System Reliability** |
+|:---:|:---:|:---:|:---:|
+| **150K×60K px** images | **97% F1-Score** | **5M hands** | **+25% improvement** |
+| 5×5px bacteria detection | +4% vs competition | +0.46% win rate | 12 defects fixed |
+| 80%+ confidence @ Laboklin | KNN ensemble model | Double Q-Learning | APS validation |
+
+</div>
 
 ---
 
@@ -43,9 +32,8 @@
 **H.Pylori Detection in Veterinary Biopsy** @ Laboklin  
 `Active Learning` `Computer Vision` `Object Detection`
 
-Developing multi-detection model for microscopic bacteria identification  
-**The Challenge:** Detecting **5×5 pixel** bacteria in **150,000×60,000 pixel** biopsy images  
-**Target:** 80%+ confidence bounding box predictions with smart sampling strategy
+Multi-detection model identifying microscopic bacteria in massive biopsy scans  
+**Challenge:** 5×5 pixel targets within 150,000×60,000 pixel images | **Goal:** 80%+ confidence predictions
 
 ---
 
@@ -56,18 +44,18 @@ Developing multi-detection model for microscopic bacteria identification
 <td width="50%" valign="top">
 
 ### 🧠 ML & Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-8B5CF6?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-7C3AED?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-6D28D9?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5B21B6?style=flat-square&logo=opencv&logoColor=white)
 
-**Specialties:** RAG • Active Learning • Computer Vision • NLP • RL (Q-Learning)
+**Specialties:** RAG • Active Learning • Computer Vision • NLP • RL
 
 ### 💻 Development & MLOps
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-7C3AED?style=flat-square&logo=cplusplus&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-6D28D9?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-5B21B6?style=flat-square&logo=docker&logoColor=white)
 
 **Stack:** REST APIs • Unit Testing • UiPath RPA • Git
 
@@ -75,18 +63,18 @@ Developing multi-detection model for microscopic bacteria identification
 <td width="50%" valign="top">
 
 ### 📊 Data & Visualization
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-8B5CF6?style=flat-square&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-7C3AED?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-6D28D9?style=flat-square&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-5B21B6?style=flat-square&logo=plotly&logoColor=white)
 
 **Tools:** Power BI • Matplotlib • Seaborn • NoSQL • MySQL
 
 ### 🌐 Full Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-8B5CF6?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-6D28D9?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-5B21B6?style=flat-square&logo=css3&logoColor=white)
 
 **Plus:** SQL • Java • Dash
 
@@ -99,39 +87,26 @@ Developing multi-detection model for microscopic bacteria identification
 ## 💡 Featured Projects
 
 ### 🧬 H.Pylori Detection in Veterinary Biopsy `Ongoing`
-- Multi-detection model with **Active Learning** for high-confidence predictions
-- Processing **150K×60K px** images to detect **5×5 px** bacteria
-- Smart Python pipeline for microscopic pathogen identification @ Laboklin
+Multi-detection model with Active Learning. Processing 150K×60K px images for 5×5 px bacteria identification.
 
 ### 🚗 BMW Lessons Learned System `Completed`
-- **RAG-powered** quality management platform for solution retrieval
-- Structured incident knowledge base for AI-driven analytics
-- Department-level trend analysis and actionable insights dashboard
+RAG-powered quality management. Structured incident knowledge base with department analytics dashboard.
 
 ### 🎲 Blackjack RL Testbed `Completed`
-- **Double Q-Learning** with card counting across **5M simulated hands**
-- Tested across 0-4% dealer edge with rule variations
-- Natural win rate: **2.29% → 2.75%** (+20% improvement)
+Double Q-Learning across 5M hands. Natural win rate improved from 2.29% to 2.75% (+20%).
 
 ### 🚓 Criminal Suspect Prediction `Completed`
-- Ensemble learning with 6-model regression/classification comparison
-- **KNN model: 96% precision, 97% F1-score** (4% better than baseline)
+KNN ensemble achieving 96% precision, 97% F1-score. Outperformed baseline by 4%.
 
 ### 🚗 Automated Parking System Validation `Completed`
-- Python OCR pipeline: **~5,000 records/run** processing
-- Benchmarked 6 OCR engines across 8 document types
-- **75 tests → 12 critical defects → 25% reliability improvement**
+Python OCR pipeline processing ~5K records/run. 75 tests identified 12 defects, +25% reliability.
 
 ---
 
 ## 📊 Experience
 
 **ML & Research Intern** • Compsoft Technologies  
-`OCR Benchmarking` `System Testing` `Data Pipeline Automation`
-
-- Ranked 6 OCR engines on accuracy/throughput across 8 document types
-- Eliminated **85% data inconsistencies** in APS workflow
-- Built end-to-end Python ingestion pipeline
+Benchmarked 6 OCR engines across 8 document types. Built end-to-end ingestion pipeline with 85% error reduction.
 
 ---
 
